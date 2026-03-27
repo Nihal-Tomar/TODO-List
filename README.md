@@ -37,19 +37,6 @@ todo-list/
 
 ---
 
-## ▶️ How to Run the Project
-
-1. Download or clone this repository
-2. Open the project folder
-3. Run the `index.html` file in your browser
-   **OR**
-4. Use Live Server in VS Code:
-
-   * Right click on `index.html`
-   * Click **Open with Live Server**
-
----
-
 ## 💡 How It Works
 
 * User writes a task in the input field
