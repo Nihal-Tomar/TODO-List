@@ -59,7 +59,7 @@ Simple dark-themed To-Do List interface with add and delete functionality.
 * Save tasks in Local Storage
 * Add due dates
 * Add categories
-* Light/Dark mode toggle
+
 
 ---
 
