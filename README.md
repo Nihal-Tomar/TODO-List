@@ -26,14 +26,6 @@ A simple and modern **To-Do List** web application that allows users to add and 
 
 ## 📂 Project Structure
 
-```
-todo-list/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
 
 ---
 
