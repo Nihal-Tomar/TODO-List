@@ -1,4 +1,4 @@
-# 📝 To-Do List Web App
+# 📝 To-Do List Website
 
 A simple and modern **To-Do List** web application that allows users to add and delete tasks easily. This project is built using **HTML, CSS, and JavaScript** and runs in the browser using **Localhost**.
 
